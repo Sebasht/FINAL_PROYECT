@@ -12,3 +12,7 @@ Para la parte de los criterios se creó una clase Criterio, que guarda la Nota, 
 Dichos criterios pueden crearse en el apartado de crear criterios y pueden modificarse o borrarse en el apartado Editar o Borrar criterios.
 
 También esta el apartado de calificar o evaluar acta que primero lista las actas que no has sido evaluadas y cuando el usuario selecciona una le presenta la información de los criterios y le permite asignarle una nota y una observación por cada jurado para luego usar esas notas y teniendo en cuenta la ponderación de cada criterio asignarle una nota al acta.
+
+##UML:
+
+https://drive.google.com/file/d/1Nx3ObKuPucrJJVt6Oia8VchADFKtGQ9B/view?usp=sharing
